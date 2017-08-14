@@ -1,12 +1,8 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Globalization;
 using System.Runtime.Serialization;
 
-namespace Niugu.Common
+namespace System
 {
 	/// <summary>
 	/// 专门用来处理日期的class，不会有‘时分秒’的干扰
